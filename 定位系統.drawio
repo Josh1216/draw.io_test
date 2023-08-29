@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T07:51:50.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.9" etag="TEKpMCsH1wMiJq6vHFD-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T08:04:07.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="cMpDpnnlrSDbX3zH1f4X" version="21.6.9" type="github">
   <diagram name="第 1 页" id="5xlTIJ7xZ0uIA1DLhqvQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xiJ59EsIPp2WgFdT32-B-1" target="xiJ59EsIPp2WgFdT32-B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xiJ59EsIPp2WgFdT32-B-1" target="xiJ59EsIPp2WgFdT32-B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-1" value="會員登入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-5" value="會員資訊頁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="550" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xiJ59EsIPp2WgFdT32-B-7" target="xiJ59EsIPp2WgFdT32-B-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-7" value="登入頁面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="216" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-9" value="密碼" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xiJ59EsIPp2WgFdT32-B-10" target="xiJ59EsIPp2WgFdT32-B-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xiJ59EsIPp2WgFdT32-B-10" target="xiJ59EsIPp2WgFdT32-B-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-10" value="登入是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="430" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-8" value="帳號" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.907;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xiJ59EsIPp2WgFdT32-B-12" target="xiJ59EsIPp2WgFdT32-B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-12" value="登入失敗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xiJ59EsIPp2WgFdT32-B-26" target="xiJ59EsIPp2WgFdT32-B-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xiJ59EsIPp2WgFdT32-B-26" value="驗證碼" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="340" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
