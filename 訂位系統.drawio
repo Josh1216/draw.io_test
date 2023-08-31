@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T03:02:45.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bEm-sMNy1xTJ_JmwgcQl" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-31T03:02:52.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Vc12UmalFdEgMK6YyRRx" version="21.6.9" type="github" pages="2">
   <diagram name="訂位詳細" id="DohD5RoaomfWy1pnBcJk">
     <mxGraphModel dx="1043" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,30 +205,30 @@
         <mxCell id="ZyJZgTim80Tzf87_wn_J-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oMXgMHF-noPdun3YWuhu-1" target="qahtUrhbXSX5TK77WNQp-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="319" y="130" />
+              <mxPoint x="287.37" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oMXgMHF-noPdun3YWuhu-1" value="會員登入/註冊/Google/Facebook/QRcode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294.75" y="80" width="300.5" height="50" as="geometry" />
+          <mxGeometry x="263.12" y="190" width="300.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qahtUrhbXSX5TK77WNQp-1" target="qahtUrhbXSX5TK77WNQp-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qahtUrhbXSX5TK77WNQp-1" value="驗證" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="160" width="110" height="50" as="geometry" />
+          <mxGeometry x="358.37" y="270" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qahtUrhbXSX5TK77WNQp-2" target="oMXgMHF-noPdun3YWuhu-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qahtUrhbXSX5TK77WNQp-2" value="註冊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294.75" y="160" width="49" height="50" as="geometry" />
+          <mxGeometry x="263.12" y="270" width="49" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qahtUrhbXSX5TK77WNQp-9" target="ZyJZgTim80Tzf87_wn_J-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="445" y="300" />
-              <mxPoint x="350" y="300" />
+              <mxPoint x="413.37" y="410" />
+              <mxPoint x="318.37" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -236,31 +236,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qahtUrhbXSX5TK77WNQp-9" value="登入成功/開始訂位/查詢/修改/取消訂位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="230" width="230" height="50" as="geometry" />
+          <mxGeometry x="298.37" y="340" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekDRwWNxcEIe-DZyAxHe-1" target="oMXgMHF-noPdun3YWuhu-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ekDRwWNxcEIe-DZyAxHe-1" value="訂位首頁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" width="120" height="40" as="geometry" />
+          <mxGeometry x="353.37" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-1" value="訂位成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290.01" y="384.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="258.38" y="494.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZyJZgTim80Tzf87_wn_J-31" target="ZyJZgTim80Tzf87_wn_J-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-31" value="查詢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482.38" y="314" width="120" height="40" as="geometry" />
+          <mxGeometry x="450.75" y="424" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-40" value="查詢結果/修改/取消訂位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="462.38" y="386.5" width="160" height="58" as="geometry" />
+          <mxGeometry x="430.75" y="496.5" width="160" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZyJZgTim80Tzf87_wn_J-49" target="ZyJZgTim80Tzf87_wn_J-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-49" value="分店/訂位詳細內容/注意事項" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="267.63" y="314" width="164.75" height="40" as="geometry" />
+          <mxGeometry x="236" y="424" width="164.75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
