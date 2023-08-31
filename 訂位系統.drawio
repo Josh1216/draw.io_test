@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T01:40:29.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hhzxVm4STC6PMdERJG7p" version="21.6.9" type="github" pages="2">
-  <diagram name="第 1 页" id="DohD5RoaomfWy1pnBcJk">
-    <mxGraphModel dx="967" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-08-31T01:42:24.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="huKfZbUpi5m-xEJb9g2K" version="21.6.9" type="github" pages="2">
+  <diagram name="訂位詳細" id="DohD5RoaomfWy1pnBcJk">
+    <mxGraphModel dx="1738" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,25 +194,22 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ly2o2_sa7XYMB1KgQXhW" name="第 2 页">
+  <diagram id="ly2o2_sa7XYMB1KgQXhW" name="訂位介面">
     <mxGraphModel dx="1043" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oMXgMHF-noPdun3YWuhu-1" value="會員登入/註冊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="119" y="130" width="110" height="50" as="geometry" />
+          <mxGeometry x="179" y="90" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oMXgMHF-noPdun3YWuhu-2" value="Facebook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="130" width="110" height="50" as="geometry" />
+          <mxGeometry x="419" y="90" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oMXgMHF-noPdun3YWuhu-3" value="Google" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="130" width="110" height="50" as="geometry" />
+          <mxGeometry x="299" y="90" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oMXgMHF-noPdun3YWuhu-5" value="Facebook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="599" y="130" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oMXgMHF-noPdun3YWuhu-6" value="Facebook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="479" y="130" width="110" height="50" as="geometry" />
+        <mxCell id="oMXgMHF-noPdun3YWuhu-6" value="QRcode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="90" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
