@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T01:50:15.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9l6oCKD1PB_eoQ9g7bit" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-31T01:51:02.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="In0iBys4hQAHC6GCDDC7" version="21.6.9" type="github" pages="2">
   <diagram name="訂位詳細" id="DohD5RoaomfWy1pnBcJk">
     <mxGraphModel dx="1043" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -242,6 +242,22 @@
         <mxCell id="qahtUrhbXSX5TK77WNQp-2" value="註冊" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="249" y="180" width="49" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="TMSz-Yz5P0sE3lpUQvQ7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qahtUrhbXSX5TK77WNQp-9" target="ePI--tPXbkjUYKwOqDbc-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="290" />
+              <mxPoint x="325" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TMSz-Yz5P0sE3lpUQvQ7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qahtUrhbXSX5TK77WNQp-9" target="TMSz-Yz5P0sE3lpUQvQ7-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="290" />
+              <mxPoint x="450" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qahtUrhbXSX5TK77WNQp-9" value="登入成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="230" width="110" height="50" as="geometry" />
         </mxCell>
@@ -256,6 +272,12 @@
         </mxCell>
         <mxCell id="ekDRwWNxcEIe-DZyAxHe-1" value="訂位首頁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ePI--tPXbkjUYKwOqDbc-1" value="開始訂位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TMSz-Yz5P0sE3lpUQvQ7-1" value="查詢/修改/取消訂位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
