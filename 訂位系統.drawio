@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T03:15:13.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sfFoEwtpeDhZkLU53TKT" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-31T03:15:34.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bJX3rBSoqsi4n5ImaoLO" version="21.6.9" type="github" pages="2">
   <diagram name="訂位詳細" id="DohD5RoaomfWy1pnBcJk">
     <mxGraphModel dx="1043" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
           <mxGeometry x="353.37" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-1" value="訂位成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="258.38" y="494.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="253.01" y="495.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZyJZgTim80Tzf87_wn_J-31" target="ZyJZgTim80Tzf87_wn_J-40">
           <mxGeometry relative="1" as="geometry" />
