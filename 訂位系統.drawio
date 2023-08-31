@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T02:29:03.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Sn6HNebPhNBpOc8Y0yoJ" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-31T03:01:10.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-RkyhSE640fMnSzRrtbN" version="21.6.9" type="github" pages="2">
   <diagram name="訂位詳細" id="DohD5RoaomfWy1pnBcJk">
     <mxGraphModel dx="1043" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -249,9 +249,6 @@
         <mxCell id="ekDRwWNxcEIe-DZyAxHe-1" value="訂位首頁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZyJZgTim80Tzf87_wn_J-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ePI--tPXbkjUYKwOqDbc-1" target="ZyJZgTim80Tzf87_wn_J-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ePI--tPXbkjUYKwOqDbc-1" value="開始訂位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="300" width="120" height="40" as="geometry" />
         </mxCell>
@@ -264,45 +261,20 @@
         <mxCell id="ZyJZgTim80Tzf87_wn_J-1" value="訂位成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="554.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZyJZgTim80Tzf87_wn_J-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZyJZgTim80Tzf87_wn_J-12" target="ZyJZgTim80Tzf87_wn_J-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZyJZgTim80Tzf87_wn_J-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZyJZgTim80Tzf87_wn_J-12" target="ZyJZgTim80Tzf87_wn_J-78">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZyJZgTim80Tzf87_wn_J-12" value="查詢結果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="435" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="ZyJZgTim80Tzf87_wn_J-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZyJZgTim80Tzf87_wn_J-16" target="ZyJZgTim80Tzf87_wn_J-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZyJZgTim80Tzf87_wn_J-16" value="選擇分店" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="407.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZyJZgTim80Tzf87_wn_J-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZyJZgTim80Tzf87_wn_J-31" target="ZyJZgTim80Tzf87_wn_J-12">
+        <mxCell id="ZyJZgTim80Tzf87_wn_J-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZyJZgTim80Tzf87_wn_J-31" target="ZyJZgTim80Tzf87_wn_J-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-31" value="查詢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="367.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZyJZgTim80Tzf87_wn_J-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZyJZgTim80Tzf87_wn_J-40" target="ZyJZgTim80Tzf87_wn_J-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="415" y="428" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZyJZgTim80Tzf87_wn_J-40" value="修改訂位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="556" width="120" height="58" as="geometry" />
+        <mxCell id="ZyJZgTim80Tzf87_wn_J-40" value="查詢結果/修改/取消訂位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="160" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ZyJZgTim80Tzf87_wn_J-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZyJZgTim80Tzf87_wn_J-49" target="ZyJZgTim80Tzf87_wn_J-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZyJZgTim80Tzf87_wn_J-49" value="訂位詳細內容/注意事項" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZyJZgTim80Tzf87_wn_J-49" value="分店/&lt;br&gt;訂位詳細內容/注意事項" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="480" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZyJZgTim80Tzf87_wn_J-78" value="取消訂位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="556.5" width="120" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
